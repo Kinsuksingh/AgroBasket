@@ -1,0 +1,35 @@
+.login-container {
+    min-height: 100vh;
+    color: white;
+  }
+  
+  .card {
+    border: none;
+  }
+  
+  .card h2 {
+    color: #333;
+  }
+  
+  .card .btn-primary {
+    background: #6f42c1;
+    border: none;
+  }
+  
+  .card .btn-primary:hover {
+    background: #5a34a1;
+  }
+  
+  .alert {
+    text-align: center;
+  }
+  
+  a {
+    color: #6f42c1;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: #5a34a1;
+  }
+  
